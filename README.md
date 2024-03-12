@@ -1,5 +1,5 @@
 # 💫 About Me:
--👋Hi, I'm Aseel Hayajneh<br>- 🔭 I studied in Computer Science Department.<br>- 🌱 I’m currently learning  full stack develpoer...<br>- 🌱i'm intersted in Back-end and front-end Web development <br>- 🤔 you can contact me via email :aseelhayajneh9@gmail.com<br><br>-->
+-👋Hi, I'm Aseel Hayajneh<br>- 🔭 I studied in Computer Science Department.<br>- 🌱 I’m currently learning  full stack develpoer...<br>- 🌱i'm intersted in Back-end and front-end Web development <br>- 🤔 you can contact me via email :aseelhayajneh9@gmail.com<br><br>--> 🤔
 
 
 ## 🌐 Socials:
